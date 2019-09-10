@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uvaileeja.42sol.eu/sitemap.xml
